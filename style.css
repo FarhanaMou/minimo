@@ -1,2 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    behavior: smooth;
+}
+
+
+/* header part start */
+
+
+/* Its for banner */
+
+.header-part {
+    padding: 70px 0px;
+}
+
+.main-manu ul li {
+    padding: 0px 30px;
+    font-size: 16px;
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+}
+
+.main-manu ul li a {
+    color: #626262;
+}
+
+.main-manu ul li a:hover {
+    color: #626262;
+}
+
+
+/* header part start */
+
+
+/* banner part start */
+
+.banner-img {
+    position: relative;
+}
+
+
+/* banner part end */
+
+
 /* font-family: 'Playfair Display', serif;
 font-family: 'Ubuntu', sans-serif; */
