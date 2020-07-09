@@ -38,12 +38,166 @@ html {
 
 /* banner part start */
 
-.banner-img {
-    position: relative;
+
+/* banner part end */
+
+
+/*  weekend getaway start  */
+
+.weekend-getaway {
+    padding: 100px 0px;
+}
+
+.weeked-text h5 {
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.weeked-text h2 {
+    color: #626262;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    padding: 30px 0px 40px 0px;
+}
+
+.weeked-text p {
+    font-size: 14px;
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+    line-height: 30px;
+    padding: 0px 10px 50px 0px;
 }
 
 
-/* banner part end */
+/*  weekend getaway end */
+
+
+/* service part start */
+
+.service-part {
+    padding: 70px 0px;
+}
+
+
+/* .service-item img {
+    width: 100%;
+} */
+
+.service-item h5 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    padding: 35px 0px 28px 0px;
+}
+
+.service-item h2 {
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+
+.service-item p {
+    font-size: 14px;
+    padding: 40px 5px;
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    line-height: 28px;
+}
+
+
+/* service part end */
+
+
+/* singup-area start */
+
+.singup-area {
+    padding: 70px 0px;
+    background: #f0f0f0;
+}
+
+.singup h2 {
+    color: #333333;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    padding-bottom: 70px;
+}
+
+.form-control {
+    border: none;
+    background: transparent;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    color: #626262;
+    padding-left: 0px;
+}
+
+.input-group {
+    border-bottom: 1px solid;
+    padding-bottom: 16px;
+}
+
+.input-group-append span {
+    border: none;
+    background-color: transparent;
+    /* font-size: 45px; */
+}
+
+
+/* singup-area end */
+
+
+/* service-2-part start */
+
+.service-2-part {
+    padding: 100px 0px;
+}
+
+.coustom-btn {
+    border: 1px solid #626262;
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    padding: 16px 30px;
+    border-radius: 0px;
+    margin-top: 70px;
+}
+
+.coustom-btn:hover {
+    color: #626262;
+}
+
+
+/* service-2-part end */
+
+
+/* footer area start */
+
+.footer-area {
+    padding: 50px 0px;
+    background: #f0f0f0;
+}
+
+.footer-text ul li a {
+    color: #000000;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+}
+
+.footer-social-icon {
+    text-align: right;
+}
+
+.footer-social-icon ul li a {
+    color: #626262;
+    font-size: 14px;
+    font-family: 'Playfair Display', serif;
+}
+
+
+/* footer area end */
 
 
 /* font-family: 'Playfair Display', serif;
